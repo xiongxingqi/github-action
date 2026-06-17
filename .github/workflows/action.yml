@@ -1,1 +1,5 @@
 on: push
+
+jobs:
+    action1:
+    action2:
