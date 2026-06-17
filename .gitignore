@@ -1,0 +1,10 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# VS Code / editors
+.vscode/
+*.swp
+*.swo
